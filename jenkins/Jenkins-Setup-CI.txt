@@ -22,7 +22,9 @@ Maven Configuration in Jenkins console
 		
 =============================================================================================================
 
-Jenkins ( CI )
+Jenkins ( CI ) - configure jobs
+Git URL : https://github.com/puneetbhatia77/addressbook.git
+POM : addressbook_main/pom.xml
 
 CI ( continuous Integration )
 
